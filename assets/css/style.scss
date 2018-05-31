@@ -2,9 +2,6 @@
 ---
 @import "jekyll-theme-minimal";
 
-
-
-
  .intro {
 	font-family: 'Bowlby One SC', cursive;
 	font-size: 50px;
@@ -14,11 +11,12 @@
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Bowlby One SC', cursive;
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: 900;
 	line-height: 1.2em;
-	color: red;
+	color: green;
 }
+
 table {
 	font-family: 'Bowlby One SC', cursive;
 	font-size: 30px;
@@ -86,14 +84,14 @@ em {
 }
 li {
 	font-family: 'Bowlby One SC', cursive;
-	font-size: 30px;
+	font-size: 40px;
 	line-height: 1.6em;
 	font-weight: 900;
 	color: black;
 }
 ul {
 	font-family: 'Bowlby One SC', cursive;
-	font-size: 30px;
+	font-size: 40px;
 	line-height: 1.6em;
 	font-weight: 900;
 	color: black;
@@ -139,6 +137,6 @@ img {
 footer {
 	font-family: 'Bowlby One SC', cursive;
 	font-weight: 900;
-	font-size: 30px;
+	font-size: 40px;
 	line-height: 1.3em;
 }
