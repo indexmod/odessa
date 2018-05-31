@@ -1,18 +1,7 @@
 ---
-title: Вопросы и ответы
+title: Theater
 permalink: faq
 layout: default
 published: true
 ---
-
-
-
-**В Бахчисараї фельд'єґер зумів одягнути ящірці жовтий капюшон?**
-
-Десь чув, що той фраєр привіз їхньому царю грильяж та класну шубу з пір'я ґави!
-
-
-
-**У ґазди є ж бо гевеї, які шиють прості килими, наче хащі фацелій?**
-
-Грішний джиґіт, що хотів у Францію, позбувався цієї думки з'їдаючи трюфель.
+The Odyssey begins after the end of the ten-year Trojan War (the subject of the Iliad), and Odysseus has still not returned home from the war. Odysseus' son Telemachus is about 20 years old and is sharing his absent father's house on the island of Ithaca with his mother Penelope and a crowd of 108 boisterous young men, "the Suitors", whose aim is to persuade Penelope to marry one of them, all the while reveling in Odysseus' palace and eating up his wealth.
