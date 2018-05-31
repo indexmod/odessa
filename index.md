@@ -2,13 +2,4 @@
 layout: default
 published: true
 ---
-**Это Глеб Харитонов**
-
-
-
-
-![]({{site.baseurl}}//images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202018-05-29%20%D0%B2%2023.44.19.png)
-
-23 90 75 22 9 93 20 13 10 73 72 63 54 36 85 60 5 47 16 3 2 92 90 55 57 65 45 47 43 71 25 53 54 55 70 16 32 17 42 15 85 47 68 42 87 12 94 29 26 32
-
-Это Глеб Харитонов, 19-летний студент первого курса Первого профессионального университета юриспруденции. В 2000 году Глеб приехал в Москву из Риги. Родители у Глеба журналисты, заканчивали ВГИК. У Глеба есть младший брат Иван и старший — Савва.
+The Odyssey begins after the end of the ten-year Trojan War (the subject of the Iliad), and Odysseus has still not returned home from the war. Odysseus' son Telemachus is about 20 years old and is sharing his absent father's house on the island of Ithaca with his mother Penelope and a crowd of 108 boisterous young men, "the Suitors", whose aim is to persuade Penelope to marry one of them, all the while reveling in Odysseus' palace and eating up his wealth.

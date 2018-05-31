@@ -1,22 +1,9 @@
 ---
 layout: default
 permalink: contacts
-title: Контакты
+title: Οδεσσσσσσα Μθλτιμεδια Τεατρ
 published: true
 ---
-## О сайте www.glebkharitonov.ga
+## Οδεσσα
 
-Cайт российского художника Глеба Харитонова
-
-![Снимок экрана 2018-05-29 в 23.44.19.png]({{site.baseurl}}/images/Снимок экрана 2018-05-29 в 23.44.19.png)
-
-                                                  
-23 90 75 22 9 93 20 13 10 73 72 63 54 36 85 60 5 47 16 3 2 92 90 55 57 65 45 47 43 71 25 53 54 55 70 16 32 17 42 15 85 47 68 42 87 12 94 29 26 32
-
-Это Глеб Харитонов, 19-летний студент первого курса Первого профессионального университета юриспруденции. В 2000 году Глеб приехал в Москву из Риги. Родители у Глеба журналисты, заканчивали ВГИК. У Глеба есть младший брат Иван и старший — Савва.
-
-
-## Глеб Харитонов / Gleb Kharitonov
-
-+ glebkharitonov@icloud.com
-+ +7 (000) 000-00-00
+The Odyssey begins after the end of the ten-year Trojan War (the subject of the Iliad), and Odysseus has still not returned home from the war. Odysseus' son Telemachus is about 20 years old and is sharing his absent father's house on the island of Ithaca with his mother Penelope and a crowd of 108 boisterous young men, "the Suitors", whose aim is to persuade Penelope to marry one of them, all the while reveling in Odysseus' palace and eating up his wealth.
