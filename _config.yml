@@ -1,5 +1,6 @@
 ---
-title: Οδεσσα
+title:
+ΟΔΕΣΣΑ
 timezone: UTC
 collections:
   posts:
@@ -8,7 +9,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: This is site for Οδεσσα
+description: ΜΘΛΤΙΜΕΔΙΑ ΛΟΟΜ
 show_sidebar: false
 show_downloads: false
 show_title: false
