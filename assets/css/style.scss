@@ -2,38 +2,36 @@
 ---
 @import "jekyll-theme-minimal";
 
- .intro {
-	font-family: 'Bowlby One SC', cursive;
-	font-size: 50px;
-	font-weight: 900;
-	line-height: 1.3em;
-	list-style-type: none;
+body {
+background-color: navy
+
 }
+
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Bowlby One SC', cursive;
 	font-size: 50px;
 	font-weight: 900;
 	line-height: 1.2em;
-	color: green;
+	color: tan;
 }
 
 table {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-size: 30px;
 	line-height: 1em;
 	font-weight: 900;
-	color: black;
+	color: tan;
 	border-collapse: collapse;
 }
 th {
-	background-color: #f5f5f5;
-	color: green;
+	background-color: black;
+	color: tan;
 	font-weight: 900;
 	padding: 9px;
 	text-align: left;
 	height: auto;
 	vertical-align: top;
-	border: 0.1px solid #e0e0e0;
+	border: 0.1px solid tan;
 }
 td {
 	padding: 9px;
@@ -41,78 +39,78 @@ td {
 	font-weight: 900;
 	height: auto;
 	vertical-align: top;
-	border: 0.1px solid #e0e0e0;
+	border: 0.1px solid tan;
 }
 tr:hover {
-	background-color: #f5f5f5;
+	background-color: black;
 }
 .highlighter-rouge {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-size: 19px;
 	line-height: 4em;
 	font-weight: 900;
-	color: black;
-	border: solid 0.1px #e0e0e0;
-	background-color: #f5f5f5;
+	color: tan;
+	border: solid 0.1px tan;
+	background-color: black;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
 	padding: 9px 9px;
 }
 del {
-	color: black;
+	color: silver;
 }
 p {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-size: 30px;
 	line-height: 1.6em;
 	font-weight: 400;
-	color: navy;
+	color: tan;
 }
 strong {
-	color: black;
-	font-family: 'Bowlby One SC', cursive;
+	color: tan;
+	font-family: 'Arial';
 	font-size: 30px;
 	line-height:15px;
 	font-weight: 900;
 }
 em {
-	color: black;
+	color: tan;
 	font-size: 30px;
 	line-height: 0.1em;
 	font-weight: 900;
 }
 li {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-size: 40px;
 	line-height: 1.6em;
 	font-weight: 900;
-	color: black;
+	color: tan;
 }
 ul {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-size: 40px;
 	line-height: 1.6em;
 	font-weight: 900;
-	color: black;
+	color: tan;
 }
 a:link {
-	color: black;
+	color: tan;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:visited {
-	color: black;
+	color: tan;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:hover {
-	color: #4e80d8;
+	color: red;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:active {
-	color: black;
+	color: tan;
 	text-decoration: none;
 	font-weight: 900;
 }
@@ -135,7 +133,7 @@ img {
 	height: auto;
 }
 footer {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-weight: 900;
 	font-size: 40px;
 	line-height: 1.3em;
