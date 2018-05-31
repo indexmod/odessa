@@ -9,9 +9,9 @@ background-color: navy
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Bowlby One SC', cursive;
-	font-size: 50px;
+	font-size: 30px;
 	font-weight: 900;
-	line-height: 1.2em;
+	line-height: 1em;
 	color: tan;
 }
 
@@ -46,8 +46,8 @@ tr:hover {
 }
 .highlighter-rouge {
 	font-family: 'Arial';
-	font-size: 19px;
-	line-height: 4em;
+	font-size: 30px;
+	line-height: 1em;
 	font-weight: 900;
 	color: tan;
 	border: solid 0.1px tan;
@@ -63,34 +63,34 @@ del {
 p {
 	font-family: 'Arial';
 	font-size: 30px;
-	line-height: 1.6em;
-	font-weight: 400;
+	line-height: 1em;
+	font-weight: 900;
 	color: tan;
 }
 strong {
 	color: tan;
 	font-family: 'Arial';
 	font-size: 30px;
-	line-height:15px;
+	line-height:1em;
 	font-weight: 900;
 }
 em {
 	color: tan;
 	font-size: 30px;
-	line-height: 0.1em;
+	line-height: 1em;
 	font-weight: 900;
 }
 li {
 	font-family: 'Arial';
-	font-size: 40px;
-	line-height: 1.6em;
+	font-size: 43px;
+	line-height: 1em;
 	font-weight: 900;
 	color: tan;
 }
 ul {
 	font-family: 'Arial';
-	font-size: 40px;
-	line-height: 1.6em;
+	font-size: 43px;
+	line-height: 1em;
 	font-weight: 900;
 	color: tan;
 }
@@ -135,6 +135,6 @@ img {
 footer {
 	font-family: 'Arial';
 	font-weight: 900;
-	font-size: 40px;
-	line-height: 1.3em;
+	font-size: 30px;
+	line-height: 1em;
 }
