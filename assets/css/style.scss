@@ -3,12 +3,20 @@
 @import "jekyll-theme-minimal";
 
 body {
-background-color: MidnightBlue 
+background-color: MidnightBlue
 
 }
 
+.intro {
+ font-family: 'Arial';
+ font-size: 30px;
+ font-weight: 100;
+ line-height: 1em;
+ list-style-type: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Bowlby One SC', cursive;
+	font-family: 'Arial';
 	font-size: 30px;
 	font-weight: 900;
 	line-height: 1em;

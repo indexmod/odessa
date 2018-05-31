@@ -5,7 +5,7 @@
   <ul>
     {% assign mypages = site.pages | sort: "order" %}
     {% for page in mypages %}
-     <li>
+     <li class="intro">
     <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
     {% endfor %}
