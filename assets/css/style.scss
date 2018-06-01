@@ -3,7 +3,7 @@
 @import "jekyll-theme-minimal";
 
 body {
-background-color: MidnightBlue
+background-color: LightSkyBlue
 
 }
 
@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 30px;
 	font-weight: 900;
 	line-height: 1em;
-	color: tan;
+	color: LightSkyBlue;
 }
 
 table {
@@ -28,18 +28,18 @@ table {
 	font-size: 30px;
 	line-height: 1em;
 	font-weight: 900;
-	color: tan;
+	color: LightSkyBlue;
 	border-collapse: collapse;
 }
 th {
 	background-color: black;
-	color: tan;
+	color: LightSkyBlue;
 	font-weight: 900;
 	padding: 9px;
 	text-align: left;
 	height: auto;
 	vertical-align: top;
-	border: 0.1px solid tan;
+	border: 0.1px solid LightSkyBlue;
 }
 td {
 	padding: 9px;
@@ -47,7 +47,7 @@ td {
 	font-weight: 900;
 	height: auto;
 	vertical-align: top;
-	border: 0.1px solid tan;
+	border: 0.1px solid LightSkyBlue;
 }
 tr:hover {
 	background-color: black;
@@ -57,8 +57,8 @@ tr:hover {
 	font-size: 30px;
 	line-height: 1em;
 	font-weight: 900;
-	color: tan;
-	border: solid 0.1px tan;
+	color: LightSkyBlue;
+	border: solid 0.1px LightSkyBlue;
 	background-color: black;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
@@ -73,17 +73,17 @@ p {
 	font-size: 30px;
 	line-height: 1em;
 	font-weight: 900;
-	color: tan;
+	color: LightSkyBlue;
 }
 strong {
-	color: tan;
+	color: LightSkyBlue;
 	font-family: 'Arial';
 	font-size: 30px;
 	line-height:1em;
 	font-weight: 900;
 }
 em {
-	color: tan;
+	color: LightSkyBlue;
 	font-size: 30px;
 	line-height: 1em;
 	font-weight: 900;
@@ -93,22 +93,22 @@ li {
 	font-size: 43px;
 	line-height: 1em;
 	font-weight: 900;
-	color: tan;
+	color: LightSkyBlue;
 }
 ul {
 	font-family: 'Arial';
 	font-size: 43px;
 	line-height: 1em;
 	font-weight: 900;
-	color: tan;
+	color: LightSkyBlue;
 }
 a:link {
-	color: tan;
+	color: LightSkyBlue;
 	text-decoration: none;
 	font-weight: 900;
 }
 a:visited {
-	color: tan;
+	color: LightSkyBlue;
 	text-decoration: none;
 	font-weight: 900;
 }
@@ -118,7 +118,7 @@ a:hover {
 	font-weight: 900;
 }
 a:active {
-	color: tan;
+	color: LightSkyBlue;
 	text-decoration: none;
 	font-weight: 900;
 }
