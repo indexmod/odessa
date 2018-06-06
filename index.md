@@ -2,4 +2,10 @@
 layout: default
 published: true
 ---
-The Odyssey begins after the end of the ten-year Trojan War (the subject of the Iliad), and Odysseus has still not returned home from the war. Odysseus' son Telemachus is about 20 years old and is sharing his absent father's house on the island of Ithaca with his mother Penelope and a crowd of 108 boisterous young men, "the Suitors", whose aim is to persuade Penelope to marry one of them, all the while reveling in Odysseus' palace and eating up his wealth.
+Орфей и Эвридика 
+
+Рейв-опера и театр одного метамедиа. Интродукция: Орфей спускается за любимой в царство мертвых и не находя её, остаётся там навсегда. Конец.
+
+Идея алгоритма состоит в следующем. На первом шаге по каждому прецеденту строится множество классифицированных по нему аномальных объектов. Далее выбирается максимальное число прецедентов, для которых мощность объединения этих множеств не превосходит заранее заданное число N. 
+
+Решающее правило классифицирует объекты только по отобранным прецедентам. Для остальных прецедентов следует искать новые отличительные свойства и добавлять их в пространство признаков. Объем вычислений алгоритма существенно уменьшается, если отбирается не максимальное число прецедентов, а близкое к нему.
